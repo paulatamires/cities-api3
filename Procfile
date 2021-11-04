@@ -1,1 +1,1 @@
-web: java -jar -Dspring.profiles.active=heroku build/libs/cities-api3-0.0.1-SNAPSHOT.jar
+web: java -jar -Dspring.profiles.active=heroku build/libs/cities-api2-0.0.1-SNAPSHOT.jar
